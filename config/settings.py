@@ -3,7 +3,7 @@ Configuration settings for Numa AI Assistant
 """
 
 # Ollama Configuration
-OLLAMA_BASE_URL = "http://localhost:11434"
+OLLAMA_HOST = "http://172.20.160.1:11435"
 DEFAULT_MODEL = "mistral"
 
 # API Endpoints
